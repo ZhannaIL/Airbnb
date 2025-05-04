@@ -55,4 +55,4 @@ jupyter notebook Airbnb_practicum-2.ipynb
 
 ---
 
-This project demonstrates data science techniques from EDA and feature engineering to supervised learning and recommendation systems using NLP. Suitable for portfolios in machine learning, data analysis, or product personalization.
+This project showcases a complete data pipeline — from exploratory analysis and data preprocessing to price prediction models and a content-based recommendation system using basic NLP techniques (TF-IDF). It is suitable for portfolios focused on applied data analysis, machine learning, and user-centric recommendation systems.
