@@ -49,6 +49,7 @@ The goal is to predict listing prices and provide personalized recommendations b
 1. Launch Jupyter Notebook:
 ```bash
 jupyter notebook Airbnb_practicum-2.ipynb
+(https://drive.google.com/file/d/1VbGzSHjkTscVZtwsMvi6hIgNiV7-sQOD/view?usp=sharing)
 ```
 2. Run cells in order to view analysis, model training, and recommender results.
 
