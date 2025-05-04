@@ -2,7 +2,8 @@
 
 ## 📊 Project Overview
 
-This project presents a complete data science pipeline for analyzing Airbnb rental listings and building a content-based recommendation engine. The dataset was sourced from Kaggle and includes ~70,000 listings.
+This project presents a complete data science pipeline for analyzing Airbnb rental listings and building a content-based recommendation engine. The dataset was sourced from Kaggle and includes ~70,000 listings.   
+(https://www.kaggle.com/datasets/lovishbansal123/airbnb-data/data)
 
 The goal is to predict listing prices and provide personalized recommendations based on listing descriptions, using both machine learning and natural language processing (NLP) techniques.
 
@@ -40,7 +41,7 @@ The goal is to predict listing prices and provide personalized recommendations b
 | File | Description |
 |------|-------------|
 | `Airbnb_practicum-2.ipynb` | Jupyter Notebook with full pipeline from cleaning to modeling and recommendation |
-| `instructions.pdf` | Project instructions & goals (Hebrew) |
+| `instructions.pdf` | Project instructions (Hebrew) |
 | `practicum.pdf` | Final project report (Hebrew) |
 
 ## ▶️ How to Run
@@ -50,21 +51,6 @@ The goal is to predict listing prices and provide personalized recommendations b
 jupyter notebook Airbnb_practicum-2.ipynb
 ```
 2. Run cells in order to view analysis, model training, and recommender results.
-
-## 💡 Sample Output
-
-> Top 5 similar listings to a selected Airbnb post based on description similarity:
-```
-1. Cozy room near central station, free Wi-Fi
-2. Quiet modern studio in heart of the city
-3. Spacious 2BR with balcony and city view
-4. Clean private room, near metro station
-5. Beautiful apartment with historic charm
-```
-
-## ⚠️ Notes
-- Content-based recommender does not require user history or collaborative filtering
-- Price prediction is done on log scale and transformed back for interpretability
 
 ---
 
