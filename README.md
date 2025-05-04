@@ -45,12 +45,11 @@ The goal is to predict listing prices and provide personalized recommendations b
 
 ## ▶️ How to Run
 
-1. Install required libraries from `requirements.txt`
-2. Launch Jupyter Notebook:
+1. Launch Jupyter Notebook:
 ```bash
 jupyter notebook Airbnb_practicum-2.ipynb
 ```
-3. Run cells in order to view analysis, model training, and recommender results.
+2. Run cells in order to view analysis, model training, and recommender results.
 
 ## 💡 Sample Output
 
